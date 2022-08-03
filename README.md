@@ -1,2 +1,5 @@
 # jstest
-just a practice
+---
+This is my first repository, or Repo for short
+
+##Bye
